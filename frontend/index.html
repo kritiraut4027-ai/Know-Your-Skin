@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Know Your Skin & Choose Wisely — Intelligent Face Wash Discovery</title>
+  <meta name="description" content="Personalized face wash recommendations using deterministic constraint filtering, responsible AI safety boundaries, and a grounded RAG ingredient chatbot.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌿</text></svg>">
+</head>
+<body>
+
+  <!-- Top Sticky Header -->
+  <header class="site-header" id="site-header">
+    <a href="#" class="brand-logo" id="brand-logo-link">
+      <div class="brand-icon" aria-hidden="true">K</div>
+      <div>
+        <div class="brand-title">Know Your Skin</div>
+        <div class="brand-subtitle">Choose Wisely • Cleansers</div>
+      </div>
+    </a>
+    <div class="nav-actions">
+      <span class="badge-tag" id="system-status-badge">
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: #10b981;"></span>
+        RAG Engine Active
+      </span>
+      <button class="btn-primary" id="start-intake-nav-btn">
+        <span>Find My Match</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Hero Entry Point (§6.1 FR-1.1 & FR-1.2) -->
+  <main>
+    <section class="hero-container" id="hero-section">
+      <div class="hero-banner" id="hero-banner-card">
+        <div class="hero-text-content">
+          <div class="hero-badge">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+            Deterministic Constraint Matching & Grounded RAG
+          </div>
+          <h1 class="hero-title">Know Your Skin & Choose Wisely</h1>
+          <p class="hero-tagline">"Your skin, your responsibility."</p>
+          <p class="hero-description">
+            Cut through marketing hype with pure scientific clarity. Set your exact budget ceiling and avoided ingredients as 
+            <strong>uncompromising hard filters</strong>. Get transparent 1-2 sentence match rationales and verify every claim 
+            with our source-cited ingredient knowledge base.
+          </p>
+          <button class="hero-cta-btn" id="launch-questionnaire-hero-btn">
+            <span>Start Guided Intake (6 Steps)</span>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </button>
+        </div>
+
+        <div class="hero-stats" id="hero-stats-panel">
+          <div class="stat-item">
+            <div class="stat-icon">🛡️</div>
+            <div class="stat-text">
+              <h4>Zero Filter Leakage</h4>
+              <p>Budget & avoided INCI ingredients are strict exclusion bounds, never deprioritized.</p>
+            </div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-icon">📚</div>
+            <div class="stat-text">
+              <h4>Verified Citations</h4>
+              <p>Chatbot draws solely from peer-reviewed dermatology databases & CIR panels.</p>
+            </div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-icon">🩺</div>
+            <div class="stat-text">
+              <h4>Clinical Escalation Boundary</h4>
+              <p>Non-diagnostic safety triage redirects red-flag symptoms directly to certified dermatologists.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Results or Active Intake Container -->
+    <section class="main-content" id="main-content-section">
+      
+      <!-- Dynamic Recommendations Container -->
+      <div class="recommendations-wrapper" id="recommendations-wrapper" style="display: none;">
+        <div class="rec-header">
+          <div>
+            <h2 class="section-title" id="rec-section-title">Your Top Matched Cleansers</h2>
+            <p class="section-sub" id="rec-section-subtitle">Ranked deterministically against your skin type and priority concern.</p>
+          </div>
+          <div class="rec-badge-group" id="active-filters-summary">
+            <!-- Dynamic pills will render here -->
+          </div>
+        </div>
+
+        <!-- Alert box for limited results or medical referral -->
+        <div id="rec-alert-placeholder"></div>
+
+        <!-- Top picks cards grid -->
+        <div class="products-grid" id="top-picks-grid"></div>
+      </div>
+
+      <!-- General Catalog Showcase -->
+      <div id="catalog-section">
+        <div class="section-header">
+          <div>
+            <h2 class="section-title">Curated Face Wash Catalog</h2>
+            <p class="section-sub">Explore all 65+ hand-curated Indian market cleanser formulations with verified full INCI lists.</p>
+          </div>
+          <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+            <select class="preset-btn" id="catalog-skin-filter" style="padding: 0.5rem 1rem;">
+              <option value="">All Skin Types</option>
+              <option value="oily">Oily Skin</option>
+              <option value="dry">Dry Skin</option>
+              <option value="sensitive">Sensitive Skin</option>
+              <option value="combination">Combination Skin</option>
+            </select>
+            <select class="preset-btn" id="catalog-concern-filter" style="padding: 0.5rem 1rem;">
+              <option value="">All Concerns</option>
+              <option value="acne">Acne & Blemishes</option>
+              <option value="dryness">Dryness & Barrier</option>
+              <option value="dullness">Dullness & Glow</option>
+              <option value="excess_oil">Excess Sebum</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="products-grid" id="full-catalog-grid">
+          <!-- Populated by JavaScript -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 6-Step Intake Questionnaire Modal (§6.2) -->
+  <div class="modal-backdrop" id="intake-modal" aria-hidden="true">
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-step-title">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <h3 id="modal-step-title">Question 1 of 6</h3>
+          <p id="modal-step-subtitle">Identify your baseline skin characteristics</p>
+        </div>
+        <button class="close-btn" id="close-modal-btn" aria-label="Close questionnaire">&times;</button>
+      </div>
+
+      <!-- Top Progress Indicator -->
+      <div class="progress-bar-container">
+        <div class="progress-bar-fill" id="progress-bar-fill"></div>
+      </div>
+
+      <div class="modal-body" id="modal-body-container">
+        
+        <!-- Step 1: Skin Type -->
+        <div class="step-content active" id="step-1">
+          <div class="question-label">What is your primary skin type?</div>
+          <div class="question-desc">Select the option that best reflects how your skin feels a few hours after washing.</div>
+          <div class="options-grid" id="skin-type-options">
+            <div class="option-card" data-val="oily">
+              <div class="option-title">Oily</div>
+              <div class="option-desc">Noticeable shine across the whole face; prone to enlarged pores.</div>
+            </div>
+            <div class="option-card" data-val="dry">
+              <div class="option-title">Dry</div>
+              <div class="option-desc">Feels tight, flaky, or dehydrated; lacks natural lipid lubrication.</div>
+            </div>
+            <div class="option-card" data-val="combination">
+              <div class="option-title">Combination</div>
+              <div class="option-desc">Oily T-zone (forehead, nose, chin) with normal or dry cheeks.</div>
+            </div>
+            <div class="option-card" data-val="sensitive">
+              <div class="option-title">Sensitive</div>
+              <div class="option-desc">Easily flushed, reactive, stings or turns red with new formulas.</div>
+            </div>
+            <div class="option-card" data-val="normal">
+              <div class="option-title">Normal</div>
+              <div class="option-desc">Balanced moisture and oil levels without significant sensitivity.</div>
+            </div>
+            <div class="option-card" data-val="not_sure">
+              <div class="option-title">Not Sure</div>
+              <div class="option-desc">We will balance gentleness and baseline compatibility.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 2: Primary Concern -->
+        <div class="step-content" id="step-2">
+          <div class="question-label">What primary concern should this cleanser address?</div>
+          <div class="question-desc">Cleansers stay on the skin briefly, but active ingredients provide vital support.</div>
+          <div class="options-grid" id="concern-options">
+            <div class="option-card" data-val="acne">
+              <div class="option-title">Acne & Blemishes</div>
+              <div class="option-desc">Active breakouts, blackheads, and congested pores.</div>
+            </div>
+            <div class="option-card" data-val="dullness">
+              <div class="option-title">Dullness & Uneven Tone</div>
+              <div class="option-desc">Looking for brightness, cellular renewal, or post-acne marks.</div>
+            </div>
+            <div class="option-card" data-val="sensitivity">
+              <div class="option-title">Sensitivity & Redness</div>
+              <div class="option-desc">Needs ultra-soothing, barrier-reinforcing ingredients.</div>
+            </div>
+            <div class="option-card" data-val="dryness">
+              <div class="option-title">Dryness & Barrier Support</div>
+              <div class="option-desc">Hydrating humectants and ceramides to prevent stripping.</div>
+            </div>
+            <div class="option-card" data-val="excess_oil">
+              <div class="option-title">Excess Sebum & Shine</div>
+              <div class="option-desc">Clarifying agents like zinc PCA to regulate surface shine.</div>
+            </div>
+            <div class="option-card" data-val="none">
+              <div class="option-title">None in Particular</div>
+              <div class="option-desc">Just looking for a clean, effective daily staple.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 3: Hard Budget Ceiling -->
+        <div class="step-content" id="step-3">
+          <div class="question-label">What is your maximum budget ceiling?</div>
+          <div class="question-desc">Hard numeric filter: No product priced above this ceiling will ever be recommended.</div>
+          
+          <div class="budget-display">
+            <div class="budget-val-big" id="budget-number-display">₹450</div>
+            <div style="color: var(--text-subtle); font-size: 0.85rem;">Strict Maximum Price in INR</div>
+          </div>
+
+          <input type="range" min="150" max="1600" step="25" value="450" class="budget-slider" id="budget-range-input">
+          
+          <div class="budget-presets">
+            <button type="button" class="preset-btn" data-preset="250">₹250 (Student)</button>
+            <button type="button" class="preset-btn" data-preset="400">₹400 (Value)</button>
+            <button type="button" class="preset-btn" data-preset="600">₹600 (Mid-tier)</button>
+            <button type="button" class="preset-btn" data-preset="1000">₹1000 (Clinical)</button>
+            <button type="button" class="preset-btn" data-preset="1600">₹1600 (Premium)</button>
+          </div>
+        </div>
+
+        <!-- Step 4: Avoided Ingredients -->
+        <div class="step-content" id="step-4">
+          <div class="question-label">Which ingredients do you want to avoid?</div>
+          <div class="question-desc">Hard exclusion filter: Any product containing these flagged ingredients is dropped immediately.</div>
+          
+          <div class="multi-tag-grid" id="avoided-tags-container">
+            <div class="multi-tag" data-avoid="fragrance">Fragrance / Parfum</div>
+            <div class="multi-tag" data-avoid="sulfates">Sulfates (SLS / SLES)</div>
+            <div class="multi-tag" data-avoid="alcohol">Denatured Alcohol</div>
+            <div class="multi-tag" data-avoid="essential_oils">Essential Oils</div>
+            <div class="multi-tag" data-avoid="parabens">Parabens</div>
+          </div>
+
+          <div style="margin-top: 1rem;">
+            <label for="custom-avoid-input" style="font-size: 0.85rem; font-weight: 600; display: block; margin-bottom: 0.4rem;">
+              Additional ingredient to avoid (optional):
+            </label>
+            <input type="text" id="custom-avoid-input" class="custom-input" placeholder="e.g. salicylic acid, tea tree, aloe vera">
+          </div>
+        </div>
+
+        <!-- Step 5: Routine Context -->
+        <div class="step-content" id="step-5">
+          <div class="question-label">Current routine context (Optional)</div>
+          <div class="question-desc">Tell us what you currently use or how often you wash your face.</div>
+          <textarea id="routine-context-input" class="custom-input custom-textarea" placeholder="e.g. I use sunscreen daily and wash morning and evening. Looking for something that doesn't feel tight..."></textarea>
+        </div>
+
+        <!-- Step 6: Safety Check & Notes -->
+        <div class="step-content" id="step-6">
+          <div class="question-label">Anything else we should know? (Optional)</div>
+          <div class="question-desc">Any sensitivities, history of reactions, or specific requirements.</div>
+          <textarea id="safety-notes-input" class="custom-input custom-textarea" placeholder="e.g. My barrier was stripped last month, prefer non-foaming lotion..."></textarea>
+
+          <!-- Live Triage Feedback Warning -->
+          <div id="live-triage-alert" style="display: none; margin-top: 1rem;" class="alert-box alert-danger">
+            <div>
+              <div class="alert-title">Dermatological Escalation Flagged</div>
+              <div class="alert-text" id="live-triage-text"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn-secondary" id="modal-prev-btn" style="visibility: hidden;">Back</button>
+        <button class="btn-primary" id="modal-next-btn">Next</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating RAG Chatbot Button (§6.5) -->
+  <button class="chat-fab" id="toggle-chat-btn" aria-label="Open ingredient advisor">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    <span>Ask Ingredient Advisor</span>
+  </button>
+
+  <!-- RAG Chatbot Drawer -->
+  <aside class="chat-drawer" id="chat-drawer" aria-label="Chatbot side drawer">
+    <div class="chat-header">
+      <div>
+        <div class="chat-header-title">Ingredient & Formula Advisor</div>
+        <div class="chat-header-sub">Grounded exclusively in peer-reviewed scientific sources</div>
+      </div>
+      <button class="close-btn" id="close-chat-btn" style="color: white;">&times;</button>
+    </div>
+
+    <!-- Suggested Quick Prompts -->
+    <div class="chat-prompts">
+      <button class="prompt-chip" data-prompt="What does Salicylic Acid do in a cleanser?">What does Salicylic Acid do?</button>
+      <button class="prompt-chip" data-prompt="Why wasn't Bioderma Sensibio recommended?">Why wasn't Bioderma picked?</button>
+      <button class="prompt-chip" data-prompt="What are Ceramides used for?">Function of Ceramides</button>
+      <button class="prompt-chip" data-prompt="Is this face wash safe for my eczema?">Safe for eczema?</button>
+    </div>
+
+    <!-- Messages container -->
+    <div class="chat-messages" id="chat-messages-container">
+      <div class="chat-bubble bot">
+        Hello! I can explain active ingredients, compare formulations, or break down why specific products did or didn't match your profile. 
+        All my answers cite verified dermatological databases.
+        <div class="chat-disclaimer">Non-diagnostic cosmetic assistant • Does not substitute medical advice</div>
+      </div>
+    </div>
+
+    <!-- Input row -->
+    <div class="chat-input-row">
+      <input type="text" id="chat-text-input" placeholder="Ask about ingredients or recommendations...">
+      <button class="send-btn" id="send-chat-btn" aria-label="Send message">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+      </button>
+    </div>
+  </aside>
+
+  <!-- Site Footer with Visible Responsible-AI Disclosures (§9 SR-2) -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-disclaimer">
+        <strong>Important Non-Diagnostic Disclosure (SR-1 & SR-2):</strong>
+        This application deterministically matches user-selected attributes (skin type, concern, budget, and avoided ingredients) 
+        against publicly listed cosmetic formulations. It is strictly non-diagnostic and does not assess skin health, prescribe 
+        therapeutics, or treat dermatological conditions. Any symptoms involving pain, bleeding, severe burning, or spreading lesions 
+        warrant immediate evaluation by a licensed board-certified dermatologist.
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+        <div>© 2026 Know Your Skin & Choose Wisely • Open Source Portfolio Project</div>
+        <div>FastAPI • Deterministic Matching • Grounded RAG • ASCI Disclosure Compliant</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

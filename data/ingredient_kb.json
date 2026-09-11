@@ -1,0 +1,585 @@
+[
+  {
+    "ingredient_name": "Salicylic Acid",
+    "aliases": [
+      "bha",
+      "beta hydroxy acid",
+      "2-hydroxybenzoic acid"
+    ],
+    "function": "Lipophilic beta-hydroxy acid (BHA) that penetrates sebum inside pores, dissolving keratin plugs and promoting cellular turnover.",
+    "common_concerns": [
+      "acne",
+      "blackheads",
+      "clogged_pores",
+      "excess_oil"
+    ],
+    "caution_notes": "Can cause mild dryness or peeling if overused. Increases skin sensitivity; pairing with daily broad-spectrum sunscreen is strongly advised.",
+    "source": "Cosmetic Ingredient Review (CIR) Expert Panel & Journal of Clinical and Aesthetic Dermatology (2020)"
+  },
+  {
+    "ingredient_name": "Niacinamide",
+    "aliases": [
+      "vitamin b3",
+      "nicotinamide"
+    ],
+    "function": "Water-soluble physiological vitamin that inhibits melanosome transfer, regulates sebum secretion, and upregulates ceramide biosynthesis in the lipid barrier.",
+    "common_concerns": [
+      "dullness",
+      "pigmentation",
+      "excess_oil",
+      "barrier_repair",
+      "sensitivity"
+    ],
+    "caution_notes": "Well-tolerated across sensitive skin; high concentrations (>10%) may cause transient flushing in sensitive individuals.",
+    "source": "British Journal of Dermatology (2018) & Paula's Choice Skincare Ingredient Dictionary"
+  },
+  {
+    "ingredient_name": "Hyaluronic Acid",
+    "aliases": [
+      "sodium hyaluronate",
+      "hydrolyzed hyaluronic acid",
+      "ha"
+    ],
+    "function": "High-potency humectant capable of binding up to 1000 times its molecular weight in water, drawing moisture into stratum corneum surface layers.",
+    "common_concerns": [
+      "dryness",
+      "dehydration",
+      "sensitivity"
+    ],
+    "caution_notes": "Best combined with occlusives or barrier emollients in low-humidity environments to prevent trans-epidermal water loss.",
+    "source": "International Journal of Biological Macromolecules (2019) & CIR Compendium"
+  },
+  {
+    "ingredient_name": "Ceramides",
+    "aliases": [
+      "ceramide np",
+      "ceramide ap",
+      "ceramide eop",
+      "ceramide 3",
+      "phytosphingosine"
+    ],
+    "function": "Essential physiological lipids (sphingolipids) comprising ~50% of the stratum corneum intercellular matrix, sealing moisture and protecting against external pathogens.",
+    "common_concerns": [
+      "barrier_repair",
+      "dryness",
+      "sensitivity",
+      "redness"
+    ],
+    "caution_notes": "Extremely safe, non-irritating biomimetic ingredient compatible with all skin types including compromised barriers.",
+    "source": "American Journal of Clinical Dermatology (2021) & CIR Report on Ceramides"
+  },
+  {
+    "ingredient_name": "Zinc PCA",
+    "aliases": [
+      "zinc pyrrolidone carboxylic acid"
+    ],
+    "function": "Zinc salt of L-pyrrolidone carboxylic acid (L-PCA) that suppresses 5-alpha-reductase to diminish excess sebum while inhibiting cutibacterium acnes proliferation.",
+    "common_concerns": [
+      "excess_oil",
+      "acne",
+      "clogged_pores"
+    ],
+    "caution_notes": "Gentle sebum-regulator; generally non-drying compared to harsh alcohol astringents.",
+    "source": "International Journal of Cosmetic Science (2017)"
+  },
+  {
+    "ingredient_name": "Centella Asiatica",
+    "aliases": [
+      "cica",
+      "gotu kola",
+      "madecassoside",
+      "asiaticoside"
+    ],
+    "function": "Botanical extract rich in triterpenoid saponins that accelerates cutaneous wound healing, stimulates collagen synthesis, and suppresses pro-inflammatory cytokines.",
+    "common_concerns": [
+      "sensitivity",
+      "redness",
+      "acne",
+      "barrier_repair"
+    ],
+    "caution_notes": "Exceptional safety profile for reactive, rosacea-prone, and sensitized skin barriers.",
+    "source": "Indian Journal of Dermatology (2019) & Advances in Dermatology and Allergology"
+  },
+  {
+    "ingredient_name": "Glycolic Acid",
+    "aliases": [
+      "aha",
+      "alpha hydroxy acid"
+    ],
+    "function": "Smallest molecular weight AHA that breaks calcium ion bonds between corneocytes on the skin surface, accelerating desquamation and brightening dull complexion.",
+    "common_concerns": [
+      "dullness",
+      "pigmentation",
+      "rough_texture"
+    ],
+    "caution_notes": "Significantly heightens UV sensitivity (photosensitivity); mandatory sun protection recommended. Can irritate eczema or compromised barriers.",
+    "source": "Dermatologic Surgery (2018) & FDA Guidance on Topical AHAs"
+  },
+  {
+    "ingredient_name": "Glycerin",
+    "aliases": [
+      "glycerol"
+    ],
+    "function": "Primary low-molecular-weight trihydroxy alcohol humectant that maintains stratum corneum hydration and stabilizes aquaporin channels.",
+    "common_concerns": [
+      "dryness",
+      "dehydration",
+      "sensitivity"
+    ],
+    "caution_notes": "Virtually non-sensitizing and non-comedogenic across human patch studies.",
+    "source": "CIR Expert Panel Safety Assessment & Journal of Investigative Dermatology"
+  },
+  {
+    "ingredient_name": "Panthenol",
+    "aliases": [
+      "provitamin b5",
+      "d-panthenol",
+      "pantolactone"
+    ],
+    "function": "Provitamin precursor to coenzyme A, functioning as both humectant and deep tissue repair agent that relieves pruritus and erythema.",
+    "common_concerns": [
+      "sensitivity",
+      "dryness",
+      "barrier_repair",
+      "redness"
+    ],
+    "caution_notes": "Hypoallergenic and non-irritating; recognized as a gold-standard skin-soothing agent.",
+    "source": "Journal of Dermatological Treatment & CIR Expert Panel"
+  },
+  {
+    "ingredient_name": "Colloidal Oatmeal",
+    "aliases": [
+      "avena sativa kernel flour",
+      "oat extract"
+    ],
+    "function": "FDA-recognized skin protectant packed with avenanthramides, beta-glucan, and lipids that neutralize histamine pathways and restore compromised moisture barriers.",
+    "common_concerns": [
+      "sensitivity",
+      "redness",
+      "dryness",
+      "barrier_repair"
+    ],
+    "caution_notes": "Safe for eczema-prone and pediatric skin, though individuals with celiac-adjacent oat contact dermatitis should test first.",
+    "source": "Journal of Drugs in Dermatology (2020) & FDA OTC Monograph on Skin Protectants"
+  },
+  {
+    "ingredient_name": "Allantoin",
+    "aliases": [
+      "5-ureidohydantoin"
+    ],
+    "function": "Keratolytic compound that softens keratin structures, encourages cell proliferation, and provides anti-irritant soothing effects against cleansing surfactants.",
+    "common_concerns": [
+      "sensitivity",
+      "redness",
+      "dryness"
+    ],
+    "caution_notes": "Well tolerated and classified as a safe, effective skin protectant.",
+    "source": "International Journal of Toxicology & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Lactic Acid",
+    "aliases": [
+      "alpha hydroxy propionic acid"
+    ],
+    "function": "Larger molecular weight AHA derived naturally from microbial fermentation that provides surface exfoliation while concurrently boosting the skin's Natural Moisturizing Factor (NMF).",
+    "common_concerns": [
+      "dullness",
+      "rough_texture",
+      "dryness"
+    ],
+    "caution_notes": "Milder than glycolic acid due to larger particle size; causes mild photosensitivity requiring sunscreen.",
+    "source": "Cosmetic Dermatology & Paula's Choice Skincare Dictionary"
+  },
+  {
+    "ingredient_name": "Tea Tree Oil",
+    "aliases": [
+      "melaleuca alternifolia leaf oil"
+    ],
+    "function": "Essential volatile oil containing high concentrations of terpinen-4-ol displaying broad-spectrum antimicrobial and anti-inflammatory activity against Cutibacterium acnes.",
+    "common_concerns": [
+      "acne",
+      "excess_oil"
+    ],
+    "caution_notes": "Can trigger contact dermatitis or sensitized reactions if oxidised or used at high concentrations (>5%). Avoid if sensitive to essential oils.",
+    "source": "Clinical Microbiology Reviews (2016) & Australasian Journal of Dermatology"
+  },
+  {
+    "ingredient_name": "Green Tea Extract",
+    "aliases": [
+      "camellia sinensis leaf extract",
+      "epigallocatechin gallate",
+      "egcg"
+    ],
+    "function": "Polyphenol powerhouse rich in EGCG that scavenges free radicals, downregulates sebum synthesis enzymes, and mitigates UV-induced oxidative stress.",
+    "common_concerns": [
+      "excess_oil",
+      "acne",
+      "dullness",
+      "sensitivity"
+    ],
+    "caution_notes": "Extremely safe, soothing topical antioxidant with no known contraindications.",
+    "source": "Oxidative Medicine and Cellular Longevity & CIR Assessment"
+  },
+  {
+    "ingredient_name": "Kojic Acid",
+    "aliases": [
+      "kojic acid dipalmitate"
+    ],
+    "function": "Naturally derived chelation agent from fungal fermentation that chelates copper in tyrosinase enzymes to impede melanin synthesis.",
+    "common_concerns": [
+      "pigmentation",
+      "dullness"
+    ],
+    "caution_notes": "Can cause mild contact irritation or photosensitivity. Maximum topical concentration generally advised at 1-2%.",
+    "source": "CIR Expert Panel Safety Report on Kojic Acid (2021)"
+  },
+  {
+    "ingredient_name": "Alpha Arbutin",
+    "aliases": [
+      "4-hydroxyphenyl alpha-glucoside"
+    ],
+    "function": "Bio-synthetic glycoside that gradually hydrolyzes to release minimal, sustained hydroquinone equivalents, inhibiting tyrosinase without cytotoxicity.",
+    "common_concerns": [
+      "pigmentation",
+      "dullness"
+    ],
+    "caution_notes": "Much safer and gentler than raw hydroquinone; safe up to 2% in facial cleansers and leave-ons.",
+    "source": "Scientific Committee on Consumer Safety (SCCS) Opinion & CIR"
+  },
+  {
+    "ingredient_name": "Sulfates (SLS/SLES)",
+    "aliases": [
+      "sodium lauryl sulfate",
+      "sodium laureth sulfate",
+      "ammonium lauryl sulfate"
+    ],
+    "function": "Anionic surfactants engineered to create voluminous foam and emulsify heavy oils and particulate soil on skin surfaces.",
+    "common_concerns": [
+      "excess_oil"
+    ],
+    "caution_notes": "High cleansing power can strip stratum corneum lipid bilayers, leading to dryness, barrier disruption, and irritation in sensitive and dry skin types.",
+    "source": "Contact Dermatitis Journal & CIR Safety Assessment of Sodium Lauryl Sulfate"
+  },
+  {
+    "ingredient_name": "Fragrance / Parfum",
+    "aliases": [
+      "parfum",
+      "aroma",
+      "fragrance"
+    ],
+    "function": "Complex mixture of volatile synthetic or natural aromatic compounds added exclusively for product sensorial smell.",
+    "common_concerns": [
+      "none"
+    ],
+    "caution_notes": "Ranked among the leading causes of cosmetic contact allergy and dermatitis globally. Strongly contraindicated for reactive or sensitized skin.",
+    "source": "American Contact Dermatitis Society (ACDS) & European Commission SCCS"
+  },
+  {
+    "ingredient_name": "Denatured Alcohol",
+    "aliases": [
+      "alcohol denat.",
+      "ethanol",
+      "sd alcohol 40"
+    ],
+    "function": "Volatile solvent used to create quick-drying aesthetics, degrease excessive skin oiliness, and enhance penetration of active ingredients.",
+    "common_concerns": [
+      "excess_oil"
+    ],
+    "caution_notes": "Repeated exposure can dissolve epidermal barrier lipids, exacerbating transepidermal water loss and causing rebound sebum production.",
+    "source": "Dermatologic Therapy & CIR Report on Alcohol Denat."
+  },
+  {
+    "ingredient_name": "Parabens",
+    "aliases": [
+      "methylparaben",
+      "propylparaben",
+      "ethylparaben",
+      "butylparaben"
+    ],
+    "function": "Broad-spectrum antimicrobial preservatives protecting water-based formulations from fungal and bacterial contamination.",
+    "common_concerns": [
+      "none"
+    ],
+    "caution_notes": "Safe within regulatory thresholds per toxicology reviews, though frequently flagged or avoided due to consumer preference and clean-beauty standards.",
+    "source": "CIR Expert Panel Safety Assessment & FDA Review of Parabens in Cosmetics"
+  },
+  {
+    "ingredient_name": "Witch Hazel",
+    "aliases": [
+      "hamamelis virginiana leaf water",
+      "witch hazel extract"
+    ],
+    "function": "Botanical astringent containing tannins that temporarily constrict skin surface pores and diminish surface oiliness.",
+    "common_concerns": [
+      "excess_oil",
+      "acne"
+    ],
+    "caution_notes": "Naturally occurring tannins and alcohol distillation can cause drying or sensitization with frequent daily application.",
+    "source": "Journal of Inflammation & Paula's Choice Skincare Dictionary"
+  },
+  {
+    "ingredient_name": "Coco-Glucoside",
+    "aliases": [
+      "coco glucoside",
+      "decyl glucoside",
+      "lauryl glucoside"
+    ],
+    "function": "Non-ionic biodegradable surfactant derived from coconut oil and fruit sugars, providing exceptionally mild cleansing without stripping barrier lipids.",
+    "common_concerns": [
+      "sensitivity",
+      "dryness"
+    ],
+    "caution_notes": "Extremely low irritation index; widely favored for sensitive, dry, and pediatric formulations.",
+    "source": "CIR Safety Assessment of Alkyl Glucosides & Contact Dermatitis"
+  },
+  {
+    "ingredient_name": "Sodium Lauroyl Sarcosinate",
+    "aliases": [
+      "lauroyl sarcosinate"
+    ],
+    "function": "Mild amino-acid derived surfactant that offers gentle lather and effective dirt removal without the barrier disruption of traditional sulfates.",
+    "common_concerns": [
+      "sensitivity",
+      "dryness"
+    ],
+    "caution_notes": "Significantly gentler than SLS, non-comedogenic and well-tolerated by barrier-compromised skin.",
+    "source": "International Journal of Toxicology & CIR Panel Assessment"
+  },
+  {
+    "ingredient_name": "Sodium Cocoyl Isethionate",
+    "aliases": [
+      "sci",
+      "baby foam"
+    ],
+    "function": "Ultra-gentle hydrophilic fatty acid surfactant renowned for creating rich creamy foam with near-zero skin barrier disruption.",
+    "common_concerns": [
+      "dryness",
+      "sensitivity",
+      "barrier_repair"
+    ],
+    "caution_notes": "Considered the gold standard for non-drying bar and liquid cleansers (syndet formulations).",
+    "source": "Cosmetic Dermatology Review & CIR Compendium"
+  },
+  {
+    "ingredient_name": "Gluconolactone",
+    "aliases": [
+      "pha",
+      "polyhydroxy acid"
+    ],
+    "function": "Next-generation polyhydroxy acid (PHA) featuring multiple hydroxyl groups that exfoliate gently while actively binding moisture and strengthening barrier integrity.",
+    "common_concerns": [
+      "dullness",
+      "rough_texture",
+      "sensitivity"
+    ],
+    "caution_notes": "Much less irritating than AHAs; does not cause significant UV sensitivity, making it suitable for sensitive skin.",
+    "source": "Dermatologic Surgery (2019) & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Benzoyl Peroxide",
+    "aliases": [
+      "bpo",
+      "dibenzoyl peroxide"
+    ],
+    "function": "Topical antibacterial medication that introduces oxygen into the pilosebaceous unit, effectively neutralizing anaerobic Cutibacterium acnes without bacterial resistance.",
+    "common_concerns": [
+      "acne"
+    ],
+    "caution_notes": "Can bleach fabrics and causes noticeable dryness, erythema, and flaking in initial weeks. Mandatory patch test advised.",
+    "source": "American Academy of Dermatology (AAD) Acne Clinical Guidelines"
+  },
+  {
+    "ingredient_name": "Aloe Vera",
+    "aliases": [
+      "aloe barbadensis leaf juice",
+      "aloe extract"
+    ],
+    "function": "Botanical mucilage containing acemannan, vitamins, and enzymes providing instant cooling, soothing, and anti-erythema relief.",
+    "common_concerns": [
+      "sensitivity",
+      "dryness",
+      "redness"
+    ],
+    "caution_notes": "Generally very safe and soothing; rare contact allergy reported in allergic individuals.",
+    "source": "Phytotherapy Research & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Vitamin C (Ascorbyl Glucoside / 3-O-Ethyl)",
+    "aliases": [
+      "ascorbyl glucoside",
+      "ethyl ascorbic acid",
+      "l-ascorbic acid"
+    ],
+    "function": "Stable antioxidant derivative that inhibits tyrosinase activity to fade hyperpigmentation while protecting cell membranes from free radical damage.",
+    "common_concerns": [
+      "pigmentation",
+      "dullness"
+    ],
+    "caution_notes": "In cleansers, contact time is brief; derivatives are gentler than pure acidic L-ascorbic acid, causing minimal tingling.",
+    "source": "Journal of Clinical and Aesthetic Dermatology (2019)"
+  },
+  {
+    "ingredient_name": "Activated Charcoal",
+    "aliases": [
+      "charcoal powder",
+      "carbon"
+    ],
+    "function": "Porous carbon matrix that physically adsorbs micro-pollutants, excess sebum, and surface particulate matter from the skin.",
+    "common_concerns": [
+      "excess_oil",
+      "clogged_pores"
+    ],
+    "caution_notes": "Can feel drying if formulated in high quantities; recommended primarily for oily or congested complexions.",
+    "source": "Journal of Cosmetic Science & Paula's Choice Skincare Dictionary"
+  },
+  {
+    "ingredient_name": "Squalane",
+    "aliases": [
+      "hydrogenated squalene",
+      "plant squalane"
+    ],
+    "function": "100% saturated biocompatible hydrocarbon mimicking natural human sebum; reinforces the lipid barrier without clogging pores.",
+    "common_concerns": [
+      "dryness",
+      "barrier_repair",
+      "sensitivity"
+    ],
+    "caution_notes": "Non-comedogenic, stable against oxidation, and exceptionally well-tolerated by all skin types.",
+    "source": "Advances in Food and Nutrition Research & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Azelaic Acid",
+    "aliases": [
+      "azelaic acid",
+      "nonanedioic acid"
+    ],
+    "function": "Dicarboxylic acid that reduces Cutibacterium acnes, downregulates hyperactive melanocytes, and calms follicular hyperkeratinization.",
+    "common_concerns": [
+      "acne",
+      "pigmentation",
+      "redness",
+      "sensitivity"
+    ],
+    "caution_notes": "Initial tingling or mild itching common; suitable for rosacea-prone skin per dermatological guidelines.",
+    "source": "Journal of Clinical and Aesthetic Dermatology (2018) & JAAD Guidelines"
+  },
+  {
+    "ingredient_name": "Licorice Root Extract",
+    "aliases": [
+      "glycyrrhiza glabra root extract",
+      "glabridin",
+      "dipotassium glycyrrhizate"
+    ],
+    "function": "Botanical soothing agent containing glabridin, which disperses melanin and suppresses tyrosinase while offering potent anti-inflammatory relief.",
+    "common_concerns": [
+      "pigmentation",
+      "dullness",
+      "sensitivity",
+      "redness"
+    ],
+    "caution_notes": "Safe, gentle brightening botanical with no photosensitivity risk.",
+    "source": "Pigment Cell & Melanoma Research & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Vitamin E (Tocopherol)",
+    "aliases": [
+      "tocopherol",
+      "tocopheryl acetate"
+    ],
+    "function": "Primary lipid-soluble physiological antioxidant protecting sebum and barrier cell membranes from lipid peroxidation.",
+    "common_concerns": [
+      "dryness",
+      "barrier_repair"
+    ],
+    "caution_notes": "High pure tocopherol concentrations can rarely cause contact dermatitis in reactive skin; esters like tocopheryl acetate are gentler.",
+    "source": "Free Radical Biology and Medicine & CIR Expert Panel"
+  },
+  {
+    "ingredient_name": "Mugwort (Artemisia)",
+    "aliases": [
+      "artemisia princeps leaf extract",
+      "artemisia vulgaris extract"
+    ],
+    "function": "Traditional medicinal herb rich in flavonoids and artemisinin that suppresses cutaneous mast cell degranulation and calms redness.",
+    "common_concerns": [
+      "sensitivity",
+      "redness",
+      "acne"
+    ],
+    "caution_notes": "Very gentle and calming; individuals with Compositae/Asteraceae pollen allergies should patch test.",
+    "source": "Journal of Ethnopharmacology & International Journal of Molecular Sciences"
+  },
+  {
+    "ingredient_name": "Bakuchiol",
+    "aliases": [
+      "psoralea corylifolia seed extract"
+    ],
+    "function": "Meroterpene phenol plant alternative to retinol that upregulates types I and IV collagen gene expression without triggering retinoic acid irritation.",
+    "common_concerns": [
+      "rough_texture",
+      "dullness",
+      "pigmentation"
+    ],
+    "caution_notes": "Photostable and far gentler than prescription retinoids; safe for daytime use.",
+    "source": "British Journal of Dermatology (2019)"
+  },
+  {
+    "ingredient_name": "Capryloyl Salicylic Acid (LHA)",
+    "aliases": [
+      "lha",
+      "lipohydroxy acid"
+    ],
+    "function": "Lipophilic salicylic acid derivative with an 8-carbon fatty acid chain providing slower, cell-by-cell micro-exfoliation inside sebaceous follicles.",
+    "common_concerns": [
+      "acne",
+      "clogged_pores",
+      "blackheads",
+      "excess_oil"
+    ],
+    "caution_notes": "Significantly gentler with lower irritation index than standard free salicylic acid.",
+    "source": "Dermatologic Surgery (2017) & L'Or\u00e9al Research Publications"
+  },
+  {
+    "ingredient_name": "Probiotics (Lactobacillus Ferment Lysate)",
+    "aliases": [
+      "lactobacillus ferment",
+      "bifida ferment lysate"
+    ],
+    "function": "Non-viable postbiotic fractions that reinforce cutaneous microbiome defense, stimulate antimicrobial peptides, and reduce transepidermal water loss.",
+    "common_concerns": [
+      "barrier_repair",
+      "sensitivity",
+      "acne"
+    ],
+    "caution_notes": "Safe, non-live postbiotic ingredients suitable for reactive or compromised barriers.",
+    "source": "Frontiers in Microbiology (2020) & International Journal of Cosmetic Science"
+  },
+  {
+    "ingredient_name": "Zinc Sulfate / Zinc Gluconate",
+    "aliases": [
+      "zinc sulfate",
+      "zinc gluconate"
+    ],
+    "function": "Bioavailable zinc salts functioning as astringent and antimicrobial agents that reduce surface bacterial colonization and soothe inflammatory blemishes.",
+    "common_concerns": [
+      "acne",
+      "excess_oil",
+      "sensitivity"
+    ],
+    "caution_notes": "Well-tolerated in rinse-off formulations without systemic absorption.",
+    "source": "Dermatology Research and Practice & CIR Safety Assessment"
+  },
+  {
+    "ingredient_name": "Sodium Cocoyl Glycinate",
+    "aliases": [
+      "cocoyl glycinate"
+    ],
+    "function": "Amino-acid based mild surfactant derived from glycine and coconut oil fatty acids producing a dense, creamy foam with minimal stratum corneum swelling.",
+    "common_concerns": [
+      "sensitivity",
+      "dryness"
+    ],
+    "caution_notes": "Significantly less drying than alkyl ether sulfates; excellent barrier preservation.",
+    "source": "Journal of Oleo Science & CIR Expert Panel"
+  }
+]

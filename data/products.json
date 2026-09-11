@@ -1,0 +1,2571 @@
+[
+  {
+    "product_id": "FW-001",
+    "name": "Gentle Skin Cleanser",
+    "brand": "Cetaphil",
+    "price_inr": 349,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "glycerin",
+      "niacinamide",
+      "panthenol"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Glycerin",
+      "Cetearyl Alcohol",
+      "Sodium Cocoyl Isethionate",
+      "Niacinamide",
+      "Panthenol",
+      "Citric Acid",
+      "Sodium Benzoate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-002",
+    "name": "Oily Skin Cleanser",
+    "brand": "Cetaphil",
+    "price_inr": 599,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "acne",
+      "clogged_pores"
+    ],
+    "key_ingredients": [
+      "niacinamide",
+      "panthenol",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Glycerin",
+      "PEG-200 Hydrogenated Glyceryl Palmate",
+      "Sodium Lauroyl Sarcosinate",
+      "Niacinamide",
+      "Panthenol",
+      "Citric Acid",
+      "Sodium Benzoate",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-003",
+    "name": "Hydrating Facial Cleanser",
+    "brand": "CeraVe",
+    "price_inr": 490,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "barrier_repair",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "ceramides",
+      "hyaluronic_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Glycerin",
+      "Cetearyl Alcohol",
+      "PEG-40 Stearate",
+      "Stearyl Alcohol",
+      "Potassium Phosphate",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Carbomer",
+      "Glyceryl Stearate",
+      "Behentrimonium Methosulfate",
+      "Sodium Lauroyl Lactylate",
+      "Sodium Hyaluronate",
+      "Cholesterol",
+      "Phenoxyethanol",
+      "Disodium EDTA",
+      "Dipotassium Phosphate",
+      "Tocopherol",
+      "Phytosphingosine",
+      "Xanthan Gum",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-004",
+    "name": "Foaming Facial Cleanser",
+    "brand": "CeraVe",
+    "price_inr": 490,
+    "skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "clogged_pores",
+      "barrier_repair"
+    ],
+    "key_ingredients": [
+      "ceramides",
+      "niacinamide",
+      "hyaluronic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Cocamidopropyl Hydroxysultaine",
+      "Sodium Lauroyl Sarcosinate",
+      "Propanediol",
+      "PEG-150 Pentaerythrityl Tetrastearate",
+      "PEG-6 Caprylic/Capric Glycerides",
+      "Niacinamide",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Carbomer",
+      "Sodium Methyl Cocoyl Taurate",
+      "Sodium Hyaluronate",
+      "Cholesterol",
+      "Phenoxyethanol",
+      "Disodium EDTA",
+      "Citric Acid",
+      "Phytosphingosine",
+      "Xanthan Gum",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-005",
+    "name": "SA Smoothing Cleanser",
+    "brand": "CeraVe",
+    "price_inr": 699,
+    "skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "rough_texture",
+      "acne",
+      "clogged_pores"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "ceramides",
+      "hyaluronic_acid",
+      "niacinamide"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Hydroxysultaine",
+      "Glycerin",
+      "Niacinamide",
+      "Gluconolactone",
+      "Sodium Methyl Cocoyl Taurate",
+      "PEG-150 Pentaerythrityl Tetrastearate",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Carbomer",
+      "Calcium Gluconate",
+      "Salicylic Acid",
+      "Sodium Benzoate",
+      "Sodium Lauroyl Lactylate",
+      "Cholesterol",
+      "Tetrasodium EDTA",
+      "Sodium Hyaluronate",
+      "Phytosphingosine",
+      "Benzoic Acid"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-006",
+    "name": "Salicylic Acid 2% + LHA Cleanser",
+    "brand": "Minimalist",
+    "price_inr": 299,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "blackheads"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "capryloyl_salicylic_acid",
+      "zinc_pca"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Glycerin",
+      "Cocamidopropyl Betaine",
+      "Propanediol",
+      "Sodium Lauroyl Methyl Isethionate",
+      "Salicylic Acid",
+      "Capryloyl Salicylic Acid",
+      "Zinc PCA",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin",
+      "Sodium Hydroxide",
+      "Trisodium Ethylenediamine Disuccinate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-007",
+    "name": "Aquaporin Booster 5% Cleanser",
+    "brand": "Minimalist",
+    "price_inr": 299,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "dehydration"
+    ],
+    "key_ingredients": [
+      "glycerin",
+      "glyceryl_glucoside",
+      "hyaluronic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Glycerin",
+      "Glyceryl Glucoside",
+      "Diglycerin",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Methyl Isethionate",
+      "Sodium Hyaluronate",
+      "Betaine",
+      "Phenoxyethanol",
+      "Sodium Hydroxide",
+      "Ethylhexylglycerin",
+      "Trisodium Ethylenediamine Disuccinate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-008",
+    "name": "Oat Extract 6% Gentle Cleanser",
+    "brand": "Minimalist",
+    "price_inr": 299,
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "redness",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "oat_extract",
+      "colloidal_oatmeal",
+      "hyaluronic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Avena Sativa (Oat) Kernel Extract",
+      "Glycerin",
+      "Dicaprylyl Carbonate",
+      "Sodium Lauroyl Methyl Isethionate",
+      "Colloidal Oatmeal",
+      "Sodium Hyaluronate",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin",
+      "Carbomer",
+      "Sodium Hydroxide"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-009",
+    "name": "1% Salicylic Acid Gel Face Wash",
+    "brand": "The Derma Co",
+    "price_inr": 249,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "blackheads"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "witch_hazel",
+      "willow_bark"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Alpha Olefin Sulfonate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Salicylic Acid",
+      "Hamamelis Virginiana (Witch Hazel) Extract",
+      "Salix Alba (Willow) Bark Extract",
+      "Phenoxyethanol",
+      "Disodium EDTA",
+      "Sodium Hydroxide"
+    ],
+    "flags": [
+      "fragrance_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-010",
+    "name": "2% Niacinamide Gentle Skin Cleanser",
+    "brand": "The Derma Co",
+    "price_inr": 299,
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "dullness",
+      "barrier_repair"
+    ],
+    "key_ingredients": [
+      "niacinamide",
+      "ceramides",
+      "cica_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cetyl Alcohol",
+      "Stearyl Alcohol",
+      "Niacinamide",
+      "Ceramide NP",
+      "Centella Asiatica Extract",
+      "Propylene Glycol",
+      "Sodium Cocoyl Isethionate",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-011",
+    "name": "Sensibio Gel Moussant",
+    "brand": "Bioderma",
+    "price_inr": 890,
+    "skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "redness",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "coco_glucoside",
+      "glyceryl_oleate",
+      "mannitol",
+      "xylitol"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water/Eau",
+      "Sodium Cocoamphoacetate",
+      "Propanediol",
+      "Sodium Lauroyl Sarcosinate",
+      "Citric Acid",
+      "Coco-Glucoside",
+      "Glyceryl Oleate",
+      "Sodium Citrate",
+      "PEG-90 Glyceryl Isostearate",
+      "Mannitol",
+      "Xylitol",
+      "Rhamnose",
+      "Fructooligosaccharides",
+      "Tocopherol",
+      "Hydrogenated Palm Glycerides Citrate",
+      "Lecithin",
+      "Ascorbyl Palmitate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-012",
+    "name": "Sebium Gel Moussant",
+    "brand": "Bioderma",
+    "price_inr": 890,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "acne",
+      "clogged_pores"
+    ],
+    "key_ingredients": [
+      "zinc_sulfate",
+      "copper_sulfate",
+      "ginkgo_biloba"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water/Eau",
+      "Sodium Cocoamphoacetate",
+      "Sodium Laureth Sulfate",
+      "Methylpropanediol",
+      "Disodium EDTA",
+      "Mannitol",
+      "Xylitol",
+      "Rhamnose",
+      "Fructooligosaccharides",
+      "Zinc Sulfate",
+      "Copper Sulfate",
+      "Ginkgo Biloba Leaf Extract",
+      "PEG-90 Glyceryl Isostearate",
+      "Laureth-2",
+      "Potassium Sorbate",
+      "Sodium Chloride",
+      "Citric Acid",
+      "Sodium Hydroxide",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-013",
+    "name": "Clear Face Cleansing Foam",
+    "brand": "Sebamed",
+    "price_inr": 580,
+    "skin_types": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "montaline_c40",
+      "panthenol"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betainamide MEA Chloride",
+      "Cocotrimonium Methosulfate",
+      "Sodium Lactate",
+      "Panthenol",
+      "Parfum",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-014",
+    "name": "Kind to Skin Refreshing Facial Wash",
+    "brand": "Simple",
+    "price_inr": 349,
+    "skin_types": [
+      "sensitive",
+      "normal",
+      "combination",
+      "dry",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "panthenol",
+      "allantoin",
+      "vitamin_e"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Propylene Glycol",
+      "Hydroxypropyl Methylcellulose",
+      "Panthenol",
+      "Tocopheryl Acetate",
+      "Pantolactone",
+      "Sodium Hydroxide",
+      "Disodium EDTA",
+      "Sodium Hydroxymethylglycinate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-015",
+    "name": "Daily Skin Detox Purifying Gel Wash",
+    "brand": "Simple",
+    "price_inr": 375,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "clogged_pores",
+      "acne"
+    ],
+    "key_ingredients": [
+      "witch_hazel",
+      "zinc_pca",
+      "thyme_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Hamamelis Virginiana Leaf Water",
+      "Cocamidopropyl Betaine",
+      "Propylene Glycol",
+      "Glycerin",
+      "Sodium Laureth Sulfate",
+      "PEG-7 Glyceryl Cocoate",
+      "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+      "Zinc PCA",
+      "Thymus Vulgaris Flower/Leaf Extract",
+      "Sodium Hydroxide",
+      "Panthenol",
+      "Dipotassium Glycyrrhizate",
+      "Citric Acid"
+    ],
+    "flags": [
+      "fragrance_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-016",
+    "name": "Cica Calming Blemish Clearing Face Wash",
+    "brand": "Dot & Key",
+    "price_inr": 295,
+    "skin_types": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "redness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "cica_extract",
+      "salicylic_acid",
+      "tea_tree_oil",
+      "green_tea"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Centella Asiatica (Cica) Extract",
+      "Salicylic Acid",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Camellia Sinensis (Green Tea) Leaf Extract",
+      "Allantoin",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-017",
+    "name": "Barrier Repair Hydrating Gentle Face Wash",
+    "brand": "Dot & Key",
+    "price_inr": 345,
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "barrier_repair",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "ceramides",
+      "hyaluronic_acid",
+      "probiotics"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Cocamidopropyl Betaine",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Phytosphingosine",
+      "Cholesterol",
+      "Sodium Hyaluronate",
+      "Lactobacillus Ferment Lysate",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-018",
+    "name": "Deep Clean Facial Cleanser",
+    "brand": "Neutrogena",
+    "price_inr": 440,
+    "skin_types": [
+      "oily",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "clogged_pores",
+      "dullness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Sodium Laureth Sulfate",
+      "Glycerin",
+      "Lauryl Glucoside",
+      "Cocamidopropyl Betaine",
+      "PEG-120 Methyl Glucose Dioleate",
+      "Salicylic Acid",
+      "Citric Acid",
+      "Sodium Hydroxide",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-019",
+    "name": "Hydro Boost Cleanser Water Gel",
+    "brand": "Neutrogena",
+    "price_inr": 850,
+    "skin_types": [
+      "dry",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dehydration",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "hyaluronic_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Glycerin",
+      "Cocamidopropyl Hydroxysultaine",
+      "Sodium Cocoyl Isethionate",
+      "Sodium Methyl Cocoyl Taurate",
+      "Sodium Hydrolyzed Potato Starch Dodecenylsuccinate",
+      "Hydrolyzed Hyaluronic Acid",
+      "Ethylhexylglycerin",
+      "Linoleamidopropyl PG-Dimonium Chloride Phosphate",
+      "Polyquaternium-10",
+      "Disodium EDTA",
+      "Citric Acid",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-020",
+    "name": "Green Tea Pore Cleansing Face Wash",
+    "brand": "Plum",
+    "price_inr": 345,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "green_tea",
+      "glycolic_acid",
+      "cellulose_beads"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Laureth Sulfate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Camellia Sinensis (Green Tea) Leaf Extract",
+      "Glycolic Acid",
+      "Cellulose Beads",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-021",
+    "name": "1% Oat & Allantoin Gentle Cleanser",
+    "brand": "Plum",
+    "price_inr": 299,
+    "skin_types": [
+      "sensitive",
+      "dry"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "redness",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "oat_extract",
+      "allantoin",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Glycerin",
+      "Cocamidopropyl Betaine",
+      "Avena Sativa (Oat) Kernel Flour",
+      "Allantoin",
+      "Xanthan Gum",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-022",
+    "name": "The Daily Duet Gentle Hydrating Cleanser",
+    "brand": "Foxtale",
+    "price_inr": 349,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "sodium_hyaluronate",
+      "red_algae_extract",
+      "vitamin_b5"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Sodium Hyaluronate",
+      "Chondrus Crispus (Red Algae) Extract",
+      "Panthenol",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-023",
+    "name": "Acne Fighting Cleanser with Salicylic Acid",
+    "brand": "Foxtale",
+    "price_inr": 349,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "blackheads"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "niacinamide",
+      "hyaluronic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Salicylic Acid",
+      "Niacinamide",
+      "Sodium Hyaluronate",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-024",
+    "name": "Fruit AHA Face Wash for Pigmentation",
+    "brand": "Re'equil",
+    "price_inr": 450,
+    "skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "pigmentation",
+      "rough_texture"
+    ],
+    "key_ingredients": [
+      "glycolic_acid",
+      "lactic_acid",
+      "bilberry_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Sarcosinate",
+      "Vaccinium Myrtillus Fruit Extract",
+      "Saccharum Officinarum (Sugar Cane) Extract",
+      "Citrus Aurantium Dulcis (Orange) Fruit Extract",
+      "Citrus Limon (Lemon) Fruit Extract",
+      "Acer Saccharum (Sugar Maple) Extract",
+      "Citric Acid",
+      "Glycolic Acid",
+      "Lactic Acid",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-025",
+    "name": "Oil Regulating Cleanser with Zinc PCA",
+    "brand": "Re'equil",
+    "price_inr": 490,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "acne",
+      "clogged_pores"
+    ],
+    "key_ingredients": [
+      "zinc_pca",
+      "citric_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Cocoyl Isethionate",
+      "Zinc PCA",
+      "Glycerin",
+      "Citric Acid",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-026",
+    "name": "Ceramide & Hyaluronic Acid Moisturising Face Wash",
+    "brand": "Re'equil",
+    "price_inr": 450,
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "barrier_repair",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "ceramides",
+      "hyaluronic_acid",
+      "mango_butter"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cetearyl Alcohol",
+      "Sodium Cocoyl Isethionate",
+      "Ceramide III",
+      "Sodium Hyaluronate",
+      "Mangifera Indica (Mango) Seed Butter",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-027",
+    "name": "Salicylic Acid Oil Control Cleanser 0.5%",
+    "brand": "Deconstruct",
+    "price_inr": 299,
+    "skin_types": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "niacinamide"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Sarcosinate",
+      "Salicylic Acid",
+      "Niacinamide",
+      "Glycerin",
+      "Xanthan Gum",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-028",
+    "name": "Hydrating Face Wash with Amino Acids",
+    "brand": "Deconstruct",
+    "price_inr": 299,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "dehydration"
+    ],
+    "key_ingredients": [
+      "amino_acids",
+      "hyaluronic_acid",
+      "panthenol"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Cocoyl Glycinate",
+      "Glycerin",
+      "Sodium Hyaluronate",
+      "Sodium PCA",
+      "Panthenol",
+      "Proline",
+      "Serine",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-029",
+    "name": "Flashfade Niacinamide Gel Cleanser",
+    "brand": "Conscious Chemist",
+    "price_inr": 349,
+    "skin_types": [
+      "all",
+      "combination",
+      "normal",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "pigmentation",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "niacinamide",
+      "licorice_root",
+      "ceramides"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Niacinamide",
+      "Glycyrrhiza Glabra (Licorice) Root Extract",
+      "Ceramide NP",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-030",
+    "name": "Cleansing Lotion for Sensitive and Dry Skin",
+    "brand": "Episoft",
+    "price_inr": 480,
+    "skin_types": [
+      "sensitive",
+      "dry"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "dryness",
+      "redness"
+    ],
+    "key_ingredients": [
+      "cetearyl_alcohol",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Purified Water",
+      "Cetearyl Alcohol",
+      "1,3-Butylene Glycol",
+      "Sodium Cocoyl Glycinate",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Disodium EDTA",
+      "Citric Acid"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-031",
+    "name": "pH 5.5 Moisture Balancing Face Wash",
+    "brand": "Joy",
+    "price_inr": 195,
+    "skin_types": [
+      "all",
+      "normal",
+      "sensitive",
+      "dry"
+    ],
+    "concerns_addressed": [
+      "barrier_repair",
+      "dryness",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "panthenol",
+      "ceramides",
+      "calendula_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Sarcosinate",
+      "Glycerin",
+      "Panthenol",
+      "Ceramide Complex",
+      "Calendula Officinalis Flower Extract",
+      "Citric Acid",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-032",
+    "name": "Purifying Neem Face Wash",
+    "brand": "Himalaya",
+    "price_inr": 140,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "neem_extract",
+      "turmeric_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Ammonium Lauryl Sulfate",
+      "Melia Azadirachta Leaf Extract",
+      "Cocamidopropyl Betaine",
+      "Sodium Cocoyl Glutamate",
+      "Glycerin",
+      "Curcuma Longa (Turmeric) Rhizome Extract",
+      "Phenoxyethanol",
+      "Fragrance",
+      "CI 19140",
+      "CI 42090"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-033",
+    "name": "Moisturizing Aloe Vera Face Wash",
+    "brand": "Himalaya",
+    "price_inr": 140,
+    "skin_types": [
+      "dry",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dryness"
+    ],
+    "key_ingredients": [
+      "aloe_vera",
+      "cucumber_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Ammonium Lauryl Sulfate",
+      "Cocamidopropyl Betaine",
+      "Aloe Barbadensis Leaf Extract",
+      "Cucumis Sativus (Cucumber) Fruit Extract",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-034",
+    "name": "Acne Control Face Wash with 1% Salicylic Acid + 5% Niacinamide",
+    "brand": "Chemist at Play",
+    "price_inr": 349,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "blackheads",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "niacinamide",
+      "ceramides"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Niacinamide",
+      "Salicylic Acid",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Phytosphingosine",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-035",
+    "name": "Hydrating Face Wash with Ceramides",
+    "brand": "Chemist at Play",
+    "price_inr": 349,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "barrier_repair"
+    ],
+    "key_ingredients": [
+      "ceramides",
+      "hyaluronic_acid",
+      "colloidal_oatmeal"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Sodium Hyaluronate",
+      "Colloidal Oatmeal",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-036",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "brand": "COSRX",
+    "price_inr": 750,
+    "skin_types": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "betaine_salicylate",
+      "tea_tree_oil"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Methyl Isethionate",
+      "Polysorbate 20",
+      "Styrax Japonicus Branch/Fruit/Leaf Extract",
+      "Butylene Glycol",
+      "Saccharomyces Ferment",
+      "Cryptomeria Japonica Leaf Extract",
+      "Nelumbo Nucifera Leaf Extract",
+      "Pinus Palustris Leaf Extract",
+      "Ulmus Davidiana Root Extract",
+      "Oenothera Biennis (Evening Primrose) Flower Extract",
+      "Pueraria Lobata Root Extract",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Allantoin",
+      "Caprylyl Glycol",
+      "Ethylhexylglycerin",
+      "Betaine Salicylate",
+      "Citric Acid",
+      "Ethyl Hexanediol",
+      "1,2-Hexanediol",
+      "Trisodium Ethylenediamine Disuccinate",
+      "Sodium Benzoate",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-037",
+    "name": "Salicylic Acid Daily Gentle Cleanser",
+    "brand": "COSRX",
+    "price_inr": 850,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "clogged_pores",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "tea_tree_oil"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Glycerin",
+      "Myristic Acid",
+      "Stearic Acid",
+      "Potassium Hydroxide",
+      "Lauric Acid",
+      "Butylene Glycol",
+      "Glycol Distearate",
+      "Polysorbate 80",
+      "Sodium Methyl Cocoyl Taurate",
+      "Salicylic Acid",
+      "Cocamidopropyl Betaine",
+      "PEG-60 Hydrogenated Castor Oil",
+      "Fragrance",
+      "Sodium Chloride",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Caprylyl Glycol",
+      "Ethylhexylglycerin",
+      "Salix Alba (Willow) Bark Water",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-038",
+    "name": "Toleriane Hydrating Gentle Cleanser",
+    "brand": "La Roche-Posay",
+    "price_inr": 1390,
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "sensitivity",
+      "barrier_repair"
+    ],
+    "key_ingredients": [
+      "ceramide_3",
+      "niacinamide",
+      "glycerin",
+      "thermal_spring_water"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Glycerin",
+      "Pentaerythrityl Tetraethylhexanoate",
+      "Propylene Glycol",
+      "Ammonium Polyacryloyldimethyl Taurate",
+      "Polysorbate 60",
+      "Ceramide NP",
+      "Niacinamide",
+      "Sodium Chloride",
+      "Coco-Betaine",
+      "Disodium EDTA",
+      "Caprylyl Glycol",
+      "Panthenol",
+      "Tocopherol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-039",
+    "name": "Effaclar Purifying Foaming Gel Cleanser",
+    "brand": "La Roche-Posay",
+    "price_inr": 1150,
+    "skin_types": [
+      "oily",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "clogged_pores"
+    ],
+    "key_ingredients": [
+      "zinc_pca",
+      "thermal_spring_water"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Sodium Laureth Sulfate",
+      "PEG-8",
+      "Coco-Betaine",
+      "Hexylene Glycol",
+      "Sodium Chloride",
+      "PEG-120 Methyl Glucose Dioleate",
+      "Zinc PCA",
+      "Sodium Hydroxide",
+      "Citric Acid",
+      "Sodium Benzoate",
+      "Phenoxyethanol",
+      "Caprylyl Glycol",
+      "Parfum/Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-040",
+    "name": "Green Tea Hydrating Amino Acid Cleansing Foam",
+    "brand": "Innisfree",
+    "price_inr": 700,
+    "skin_types": [
+      "combination",
+      "normal",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "green_tea_extract",
+      "amino_acids",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Water/Aqua/Eau",
+      "Glycerin",
+      "Myristic Acid",
+      "Stearic Acid",
+      "PEG-32",
+      "Potassium Hydroxide",
+      "Palmitic Acid",
+      "Lauric Acid",
+      "Lauryl Glucoside",
+      "Camellia Sinensis Leaf Extract",
+      "Arginine",
+      "Aspartic Acid",
+      "Glutamic Acid",
+      "Disodium EDTA",
+      "Fragrance/Parfum"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-041",
+    "name": "Volcanic BHA Pore Cleansing Foam",
+    "brand": "Innisfree",
+    "price_inr": 750,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "blackheads",
+      "clogged_pores",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "volcanic_ash",
+      "salicylic_acid",
+      "lactic_acid"
+    ],
+    "full_ingredient_list": [
+      "Water/Aqua/Eau",
+      "Glycerin",
+      "Myristic Acid",
+      "Stearic Acid",
+      "PEG-32",
+      "Potassium Hydroxide",
+      "Lauric Acid",
+      "Volcanic Ash",
+      "Salicylic Acid",
+      "Lactic Acid",
+      "Silica",
+      "Disodium EDTA",
+      "Fragrance/Parfum"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-042",
+    "name": "CLEAR Pore Normalizing Cleanser",
+    "brand": "Paula's Choice",
+    "price_inr": 1390,
+    "skin_types": [
+      "oily",
+      "combination",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "clogged_pores",
+      "redness"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "arginine",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Sodium Lauroyl Sarcosinate",
+      "Acrylates/Steareth-20 Methacrylate Copolymer",
+      "Glycerin",
+      "PEG-200 Hydrogenated Glyceryl Palmate",
+      "Sodium Laureth Sulfate",
+      "Salicylic Acid",
+      "Arginine",
+      "Butylene Glycol",
+      "PEG-7 Glyceryl Cocoate",
+      "Panthenol",
+      "Disodium EDTA",
+      "Phenoxyethanol",
+      "Caprylyl Glycol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-043",
+    "name": "Glow+ Smoothie Face Wash",
+    "brand": "Aqualogica",
+    "price_inr": 249,
+    "skin_types": [
+      "all",
+      "normal",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "dehydration"
+    ],
+    "key_ingredients": [
+      "vitamin_c",
+      "papaya_extract",
+      "hyaluronic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Carica Papaya (Papaya) Fruit Extract",
+      "Ascorbyl Glucoside",
+      "Sodium Hyaluronate",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-044",
+    "name": "Hydrate+ Gel Face Wash",
+    "brand": "Aqualogica",
+    "price_inr": 249,
+    "skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "dryness",
+      "dehydration"
+    ],
+    "key_ingredients": [
+      "coconut_water",
+      "hyaluronic_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Cocos Nucifera (Coconut) Water",
+      "Sodium Hyaluronate",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-045",
+    "name": "Tea Tree Face Wash with Neem",
+    "brand": "Mamaearth",
+    "price_inr": 259,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "tea_tree_oil",
+      "neem_extract",
+      "aloe_vera"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Melia Azadirachta (Neem) Leaf Extract",
+      "Aloe Barbadensis Leaf Juice",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-046",
+    "name": "Ubtan Face Wash with Turmeric & Saffron",
+    "brand": "Mamaearth",
+    "price_inr": 259,
+    "skin_types": [
+      "all",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "pigmentation"
+    ],
+    "key_ingredients": [
+      "turmeric_extract",
+      "saffron_extract",
+      "walnut_beads"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Curcuma Longa (Turmeric) Extract",
+      "Crocus Sativus (Saffron) Flower Extract",
+      "Juglans Regia (Walnut) Shell Powder",
+      "Glycerin",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-047",
+    "name": "Apple Cider Vinegar Foaming Face Wash",
+    "brand": "WOW Skin Science",
+    "price_inr": 349,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "blackheads"
+    ],
+    "key_ingredients": [
+      "apple_cider_vinegar",
+      "aloe_vera",
+      "vitamin_b5"
+    ],
+    "full_ingredient_list": [
+      "Purified Water",
+      "Sodium Lauroyl Sarcosinate",
+      "Disodium Cocoamphodiacetate",
+      "Apple Cider Vinegar",
+      "Aloe Barbadensis Leaf Juice",
+      "D-Panthenol",
+      "Tocopheryl Acetate",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-048",
+    "name": "Clean & Clear Foaming Face Wash",
+    "brand": "Clean & Clear",
+    "price_inr": 175,
+    "skin_types": [
+      "oily",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "excess_oil",
+      "acne"
+    ],
+    "key_ingredients": [
+      "glycerin",
+      "myristic_acid",
+      "lauric_acid"
+    ],
+    "full_ingredient_list": [
+      "Water",
+      "Triethanolamine",
+      "Myristic Acid",
+      "Lauric Acid",
+      "Glycerin",
+      "Cocamidopropyl Betaine",
+      "Hydroxylpropyl Methylcellulose",
+      "Fragrance",
+      "BHT"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-049",
+    "name": "Bright Beauty Spot-less Glow Face Wash",
+    "brand": "Pond's",
+    "price_inr": 160,
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "pigmentation"
+    ],
+    "key_ingredients": [
+      "niacinamide",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Myristic Acid",
+      "Glycerin",
+      "Water",
+      "Propylene Glycol",
+      "Potassium Hydroxide",
+      "Palmitic Acid & Stearic Acid",
+      "Lauric Acid",
+      "Glycol Distearate",
+      "Decyl Glucoside",
+      "Niacinamide",
+      "Polyquaternium-7",
+      "Fragrance",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-050",
+    "name": "Pure Detox Mineral Clay Anti-Pollution Face Wash",
+    "brand": "Pond's",
+    "price_inr": 199,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "clogged_pores",
+      "excess_oil",
+      "dullness"
+    ],
+    "key_ingredients": [
+      "activated_charcoal",
+      "moroccan_clay"
+    ],
+    "full_ingredient_list": [
+      "Myristic Acid",
+      "Glycerin",
+      "Water",
+      "Potassium Hydroxide",
+      "Stearic Acid",
+      "Lauric Acid",
+      "Kaolin (Moroccan Clay)",
+      "Charcoal Powder",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-051",
+    "name": "Bright Complete Vitamin C Face Wash",
+    "brand": "Garnier",
+    "price_inr": 175,
+    "skin_types": [
+      "all",
+      "normal",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "pigmentation"
+    ],
+    "key_ingredients": [
+      "ascorbyl_glucoside",
+      "lemon_extract"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Glycerin",
+      "Myristic Acid",
+      "Palmitic Acid",
+      "Stearic Acid",
+      "Potassium Hydroxide",
+      "Lauric Acid",
+      "Citrus Limon Fruit Extract/Lemon Fruit Extract",
+      "Ascorbyl Glucoside",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-052",
+    "name": "Blush & Glow Strawberry Gel Face Wash",
+    "brand": "Lakme",
+    "price_inr": 185,
+    "skin_types": [
+      "all",
+      "normal",
+      "dry"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "strawberry_extract",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Laureth Sulfate",
+      "Glycerin",
+      "Cocamidopropyl Betaine",
+      "Fragaria Vesca (Strawberry) Fruit Extract",
+      "Menthol",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-053",
+    "name": "Purifying Cleanser for Acne Prone Skin",
+    "brand": "Kaya",
+    "price_inr": 380,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "blackheads"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Laureth Sulfate",
+      "Cocamidopropyl Betaine",
+      "Salicylic Acid",
+      "Glycerin",
+      "Propylene Glycol",
+      "Disodium EDTA",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-054",
+    "name": "Cleanance Cleansing Gel",
+    "brand": "Avene",
+    "price_inr": 1450,
+    "skin_types": [
+      "oily",
+      "sensitive",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "avene_thermal_spring_water",
+      "comedoclastin",
+      "zinc_gluconate"
+    ],
+    "full_ingredient_list": [
+      "Avene Thermal Spring Water",
+      "Water (Aqua)",
+      "Zinc Coceth Sulfate",
+      "Lauryl Betaine",
+      "Decyl Glucoside",
+      "Ceteareth-60 Myristyl Glycol",
+      "PEG-7 Glyceryl Cocoate",
+      "Silybum Marianum Fruit Extract (Comedoclastin)",
+      "Zinc Gluconate",
+      "Citric Acid",
+      "Fragrance (Parfum)",
+      "Sodium Benzoate",
+      "Sodium Hydroxide"
+    ],
+    "flags": [
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-055",
+    "name": "Calendula Deep Cleansing Foaming Face Wash",
+    "brand": "Kiehl's",
+    "price_inr": 1550,
+    "skin_types": [
+      "normal",
+      "oily",
+      "sensitive"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "redness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "calendula_extract",
+      "glycerin"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Sodium Cocoyl Glycinate",
+      "Coco-Betaine",
+      "Glycerin",
+      "Acrylates Copolymer",
+      "Sodium Chloride",
+      "Calendula Officinalis Flower Extract",
+      "Phenoxyethanol",
+      "Citrus Limon Peel Oil",
+      "Limonene"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-056",
+    "name": "Saslic DS 2% Salicylic Acid Foaming Face Wash",
+    "brand": "Cipla",
+    "price_inr": 420,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "blackheads",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid"
+    ],
+    "full_ingredient_list": [
+      "Purified Water",
+      "Salicylic Acid",
+      "Sodium Cocoamphoacetate",
+      "Propylene Glycol",
+      "Cocamidopropyl Betaine",
+      "Sodium Hydroxide",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-057",
+    "name": "Saslic 1% Salicylic Acid Foaming Face Wash",
+    "brand": "Cipla",
+    "price_inr": 360,
+    "skin_types": [
+      "combination",
+      "sensitive",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid"
+    ],
+    "full_ingredient_list": [
+      "Purified Water",
+      "Salicylic Acid",
+      "Sodium Cocoamphoacetate",
+      "Propylene Glycol",
+      "Cocamidopropyl Betaine",
+      "Sodium Hydroxide",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-058",
+    "name": "Water Boost Micellar Facial Gel Wash",
+    "brand": "Simple",
+    "price_inr": 365,
+    "skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dehydration",
+      "dryness",
+      "sensitivity"
+    ],
+    "key_ingredients": [
+      "plant_derived_penta_saccharide",
+      "minerals"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Propylene Glycol",
+      "Hydroxypropyl Methylcellulose",
+      "Panthenol",
+      "Sodium Chloride",
+      "Citric Acid",
+      "Disodium EDTA",
+      "Glycerin",
+      "Sodium Hydroxymethylglycinate",
+      "Potassium Chloride"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-059",
+    "name": "Watermelon SuperGlow Gel Face Wash",
+    "brand": "Dot & Key",
+    "price_inr": 295,
+    "skin_types": [
+      "all",
+      "combination",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "watermelon_extract",
+      "glycolic_acid",
+      "vitamin_c"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Cocamidopropyl Betaine",
+      "Sodium Lauroyl Sarcosinate",
+      "Glycerin",
+      "Citrullus Lanatus (Watermelon) Fruit Extract",
+      "Glycolic Acid",
+      "3-O-Ethyl Ascorbic Acid",
+      "Phenoxyethanol",
+      "Fragrance"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-060",
+    "name": "Blemish Control Cleanser",
+    "brand": "CeraVe",
+    "price_inr": 720,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "clogged_pores",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "niacinamide",
+      "ceramides",
+      "hectorite_clay"
+    ],
+    "full_ingredient_list": [
+      "Aqua/Water",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Hydroxysultaine",
+      "Glycerin",
+      "Niacinamide",
+      "Salicylic Acid",
+      "Gluconolactone",
+      "Sodium Methyl Cocoyl Taurate",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Carbomer",
+      "Hectorite",
+      "Phytosphingosine",
+      "Cholesterol",
+      "Sodium Hyaluronate",
+      "Sodium Benzoate",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-061",
+    "name": "Fruit AHA 2% Gentle Foaming Wash",
+    "brand": "Conscious Chemist",
+    "price_inr": 399,
+    "skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "rough_texture",
+      "pigmentation"
+    ],
+    "key_ingredients": [
+      "lactic_acid",
+      "glycolic_acid",
+      "malic_acid"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Cocoyl Glycinate",
+      "Cocamidopropyl Betaine",
+      "Lactic Acid",
+      "Glycolic Acid",
+      "Vaccinium Myrtillus Fruit Extract",
+      "Glycerin",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-062",
+    "name": "1% Kojic Acid Daily Face Wash",
+    "brand": "The Derma Co",
+    "price_inr": 299,
+    "skin_types": [
+      "all",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "pigmentation",
+      "dullness"
+    ],
+    "key_ingredients": [
+      "kojic_acid",
+      "alpha_arbutin",
+      "niacinamide"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Alpha Olefin Sulfonate",
+      "Cocamidopropyl Betaine",
+      "Glycerin",
+      "Kojic Acid Dipalmitate",
+      "Alpha Arbutin",
+      "Niacinamide",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "flags": [
+      "fragrance_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-063",
+    "name": "Basic Cleanser",
+    "brand": "FAE Beauty",
+    "price_inr": 350,
+    "skin_types": [
+      "all",
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "sensitivity",
+      "dryness"
+    ],
+    "key_ingredients": [
+      "panthenol",
+      "glycerin",
+      "allantoin"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Panthenol",
+      "Allantoin",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  },
+  {
+    "product_id": "FW-064",
+    "name": "Acrofy Acne Cleanser",
+    "brand": "Brinton",
+    "price_inr": 499,
+    "skin_types": [
+      "oily",
+      "combination"
+    ],
+    "concerns_addressed": [
+      "acne",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "salicylic_acid",
+      "tea_tree_oil",
+      "zinc_pca"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Sodium Lauroyl Sarcosinate",
+      "Cocamidopropyl Betaine",
+      "Salicylic Acid",
+      "Zinc PCA",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Glycerin",
+      "Phenoxyethanol"
+    ],
+    "flags": [
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free"
+    ]
+  },
+  {
+    "product_id": "FW-065",
+    "name": "Delicate Facial Cleanser Kashmiri Saffron & Neem",
+    "brand": "Forest Essentials",
+    "price_inr": 1475,
+    "skin_types": [
+      "all",
+      "combination",
+      "normal"
+    ],
+    "concerns_addressed": [
+      "dullness",
+      "excess_oil"
+    ],
+    "key_ingredients": [
+      "saffron_extract",
+      "neem_infusion",
+      "rose_water"
+    ],
+    "full_ingredient_list": [
+      "Aqua",
+      "Steam Distilled Rose Water",
+      "Kashmiri Saffron Extract",
+      "Neem Leaf Infusion",
+      "Marigold Extract",
+      "Anantmool Root Extract",
+      "Sodium Cocoyl Apple Amino Acids",
+      "Glycerin",
+      "Potassium Sorbate"
+    ],
+    "flags": [
+      "fragrance_free",
+      "sulfate_free",
+      "alcohol_free",
+      "paraben_free",
+      "essential_oil_free"
+    ]
+  }
+]
